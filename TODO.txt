@@ -1,0 +1,36 @@
+- Basic Data Types:
+[X] - ClosedTag
+[X] - OpenTag
+[X] - Attribute
+[X] - Attributes
+- Attributes for each element:
+[ ] - input
+[ ] - img
+[ ] - div/nav/footer/...
+[ ] - audio
+[ ] - video
+- General:
+[X] - render
+[X] - text escaping
+[2/110] - Tags
+
+Optional:
+- Type safety:
+[X] - elements type safety
+[ ] - attributes type safety
+[ ] - css type safety
+- JS:
+[ ] - java functions to js event functions
+[ ] - alert/prompt/...
+[ ] - dom manipulation helpers
+[ ] - htmx support
+[ ] - alpine support
+- CSS:
+[ ] - selectors
+    - attributes
+    [ ] - color
+    [ ] - box model
+    [ ] - display
+    [ ] - font size
+    [ ] - text style
+    [ ] - background
