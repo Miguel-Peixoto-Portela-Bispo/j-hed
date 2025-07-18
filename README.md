@@ -63,7 +63,7 @@ public class Main {
                             b.body(() -> b.h1(attrs(TagType.H1.class).withDir(Dir.RTL), () -> b.text("Home Page"))
                             );
                         })
-                )
+                ).createRenderer().render()
         );
     }
 }
